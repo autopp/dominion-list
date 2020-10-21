@@ -36,6 +36,25 @@ KINDS = {
   '習性' => 'way'
 }.freeze
 
+BASIC_CARDS = Set.new(%w[銅貨 銀貨 金貨 白金貨 屋敷 公領 属州 植民地 呪い])
+SETS = {
+  '基本' => 'Base',
+  '陰謀' => 'Intrigue',
+  '海辺' => 'Seaside',
+  '錬金術' => 'Alchemy',
+  '繁栄' => 'Prosperity',
+  '収穫祭' => 'Cornucopia',
+  '異郷' => 'Hinterlands',
+  '暗黒時代' => 'DarkAge',
+  'ギルド' => 'Guilds',
+  '冒険' => 'Adventures',
+  '帝国' => 'Empires',
+  '夜想曲' => 'Nocturne',
+  'ルネサンス' => 'Renaissance',
+  '移動動物園' => 'Menagerie',
+  'プロモ' => 'Promos'
+}.freeze
+
 def parse_cost(text)
   text = text[0...-1] if text.end_with?('*')
   if text.end_with?('+')
@@ -71,19 +90,26 @@ def parse_kinds(text)
   text.split('－').map { KINDS.fetch(_1) }
 end
 
+def parse_set(ja, text)
+  return 'Basic' if BASIC_CARDS.include?(ja)
+
+  SETS.fetch(text)
+end
+
 doc = Nokogiri::HTML.parse($stdin.read)
 
 card_nodes = doc.css('tr.tr2, tr.tr3')
 cards = card_nodes.map do |card_node|
   _, ja_node, kana_node, en_node, cost_node, kinds_node, set_node = card_node.children
+  ja = ja_node.css('a').text
 
   {
     name: en_node.text,
-    ja: ja_node.css('a').text,
+    ja: ja,
     kana: kana_node.text,
     cost: parse_cost(cost_node.text),
     kinds: parse_kinds(kinds_node.text),
-    set: set_node.text
+    set: parse_set(ja, set_node.text)
   }
 end
 
