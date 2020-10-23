@@ -87,7 +87,7 @@ def parse_cost(text)
 end
 
 def parse_kinds(text)
-  text.split('－').map { KINDS.fetch(_1) }
+  text.split('−').map { KINDS.fetch(_1) }
 end
 
 def parse_set(ja, text)
