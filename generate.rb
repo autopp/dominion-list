@@ -113,4 +113,4 @@ cards = card_nodes.map do |card_node|
   }
 end
 
-puts JSON.pretty_generate(cards)
+puts JSON.pretty_generate({ cards: cards })

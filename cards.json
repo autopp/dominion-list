@@ -1,0 +1,9027 @@
+{
+  "cards": [
+    {
+      "name": "Copper",
+      "ja": "銅貨",
+      "kana": "どうか",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Silver",
+      "ja": "銀貨",
+      "kana": "ぎんか",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Gold",
+      "ja": "金貨",
+      "kana": "きんか",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Estate",
+      "ja": "屋敷",
+      "kana": "やしき",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Duchy",
+      "ja": "公領",
+      "kana": "こうりょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Province",
+      "ja": "属州",
+      "kana": "ぞくしゅう",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Curse",
+      "ja": "呪い",
+      "kana": "のろい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Curse"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Adventurer",
+      "ja": "冒険者",
+      "kana": "ぼうけんしゃ",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Bureaucrat",
+      "ja": "役人",
+      "kana": "やくにん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Cellar",
+      "ja": "地下貯蔵庫",
+      "kana": "ちかちょぞうこ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Chancellor",
+      "ja": "宰相",
+      "kana": "さいしょう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Chapel",
+      "ja": "礼拝堂",
+      "kana": "れいはいどう",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Council Room",
+      "ja": "議事堂",
+      "kana": "ぎじどう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Feast",
+      "ja": "祝宴",
+      "kana": "しゅくえん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Festival",
+      "ja": "祝祭",
+      "kana": "しゅくさい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Gardens",
+      "ja": "庭園",
+      "kana": "ていえん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Laboratory",
+      "ja": "研究所",
+      "kana": "けんきゅうじょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Library",
+      "ja": "書庫",
+      "kana": "しょこ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Market",
+      "ja": "市場",
+      "kana": "いちば",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Militia",
+      "ja": "民兵",
+      "kana": "みんぺい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Mine",
+      "ja": "鉱山",
+      "kana": "こうざん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Moat",
+      "ja": "堀",
+      "kana": "ほり",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Moneylender",
+      "ja": "金貸し",
+      "kana": "かねかし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Remodel",
+      "ja": "改築",
+      "kana": "かいちく",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Smithy",
+      "ja": "鍛冶屋",
+      "kana": "かじや",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Spy",
+      "ja": "密偵",
+      "kana": "みってい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Thief",
+      "ja": "泥棒",
+      "kana": "どろぼう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Throne Room",
+      "ja": "玉座の間",
+      "kana": "ぎょくざのま",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Village",
+      "ja": "村",
+      "kana": "むら",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Witch",
+      "ja": "魔女",
+      "kana": "まじょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Woodcutter",
+      "ja": "木こり",
+      "kana": "きこり",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Workshop",
+      "ja": "工房",
+      "kana": "こうぼう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Baron",
+      "ja": "男爵",
+      "kana": "だんしゃく",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Bridge",
+      "ja": "橋",
+      "kana": "はし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Conspirator",
+      "ja": "共謀者",
+      "kana": "きょうぼうしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Coppersmith",
+      "ja": "銅細工師",
+      "kana": "どうざいくし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Courtyard",
+      "ja": "中庭",
+      "kana": "なかにわ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Duke",
+      "ja": "公爵",
+      "kana": "こうしゃく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Great Hall",
+      "ja": "大広間",
+      "kana": "おおひろま",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Harem",
+      "ja": "ハーレム",
+      "kana": "はーれむ",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Victory"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Ironworks",
+      "ja": "鉄工所",
+      "kana": "てっこうじょ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Masquerade",
+      "ja": "仮面舞踏会",
+      "kana": "かめんぶとうかい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Mining Village",
+      "ja": "鉱山の村",
+      "kana": "こうざんのむら",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Minion",
+      "ja": "寵臣",
+      "kana": "ちょうしん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Nobles",
+      "ja": "貴族",
+      "kana": "きぞく",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Pawn",
+      "ja": "手先",
+      "kana": "てさき",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Saboteur",
+      "ja": "破壊工作員",
+      "kana": "はかいこうさくいん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Scout",
+      "ja": "偵察員",
+      "kana": "ていさついん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Secret Chamber",
+      "ja": "秘密の部屋",
+      "kana": "ひみつのへや",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Shanty Town",
+      "ja": "貧民街",
+      "kana": "ひんみんがい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Steward",
+      "ja": "執事",
+      "kana": "しつじ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Swindler",
+      "ja": "詐欺師",
+      "kana": "さぎし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Torturer",
+      "ja": "拷問人",
+      "kana": "ごうもんにん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Trading Post",
+      "ja": "交易場",
+      "kana": "こうえきじょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Tribute",
+      "ja": "貢物",
+      "kana": "みつぎもの",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Upgrade",
+      "ja": "改良",
+      "kana": "かいりょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Wishing Well",
+      "ja": "願いの井戸",
+      "kana": "ねがいのいど",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Ambassador",
+      "ja": "大使",
+      "kana": "たいし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Bazaar",
+      "ja": "バザー",
+      "kana": "ばざー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Caravan",
+      "ja": "隊商",
+      "kana": "たいしょう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Cutpurse",
+      "ja": "巾着切り",
+      "kana": "きんちゃくきり",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Embargo",
+      "ja": "抑留",
+      "kana": "よくりゅう",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Explorer",
+      "ja": "探検家",
+      "kana": "たんけんか",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Fishing Village",
+      "ja": "漁村",
+      "kana": "ぎょそん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Ghost Ship",
+      "ja": "幽霊船",
+      "kana": "ゆうれいせん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Haven",
+      "ja": "停泊所",
+      "kana": "ていはくじょ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Island",
+      "ja": "島",
+      "kana": "しま",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Lighthouse",
+      "ja": "灯台",
+      "kana": "とうだい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Lookout",
+      "ja": "見張り",
+      "kana": "みはり",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Merchant Ship",
+      "ja": "商船",
+      "kana": "しょうせん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Native Village",
+      "ja": "原住民の村",
+      "kana": "げんじゅうみんのむら",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Navigator",
+      "ja": "航海士",
+      "kana": "こうかいし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Outpost",
+      "ja": "前哨地",
+      "kana": "ぜんしょうち",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Pearl Diver",
+      "ja": "真珠採り",
+      "kana": "しんじゅとり",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Pirate Ship",
+      "ja": "海賊船",
+      "kana": "かいぞくせん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Salvager",
+      "ja": "引揚水夫",
+      "kana": "ひきあげすいふ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Sea Hag",
+      "ja": "海の妖婆",
+      "kana": "うみのようば",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Smugglers",
+      "ja": "密輸人",
+      "kana": "みつゆにん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Tactician",
+      "ja": "策士",
+      "kana": "さくし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Treasure Map",
+      "ja": "宝の地図",
+      "kana": "たからのちず",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Treasury",
+      "ja": "宝物庫",
+      "kana": "ほうもつこ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Warehouse",
+      "ja": "倉庫",
+      "kana": "そうこ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Wharf",
+      "ja": "船着場",
+      "kana": "ふなつきば",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Seaside"
+    },
+    {
+      "name": "Envoy",
+      "ja": "公使",
+      "kana": "こうし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Black Market",
+      "ja": "闇市場",
+      "kana": "やみいちば",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Stash",
+      "ja": "へそくり",
+      "kana": "へそくり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Alchemist",
+      "ja": "錬金術師",
+      "kana": "れんきんじゅつし",
+      "cost": {
+        "coin": 3,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Apothecary",
+      "ja": "薬師",
+      "kana": "くすし",
+      "cost": {
+        "coin": 2,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Apprentice",
+      "ja": "弟子",
+      "kana": "でし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Familiar",
+      "ja": "使い魔",
+      "kana": "つかいま",
+      "cost": {
+        "coin": 3,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Golem",
+      "ja": "ゴーレム",
+      "kana": "ごーれむ",
+      "cost": {
+        "coin": 4,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Herbalist",
+      "ja": "薬草商",
+      "kana": "やくそうしょう",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Philosopher's Stone",
+      "ja": "賢者の石",
+      "kana": "けんじゃのいし",
+      "cost": {
+        "coin": 3,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Possession",
+      "ja": "支配",
+      "kana": "しはい",
+      "cost": {
+        "coin": 6,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Potion",
+      "ja": "ポーション",
+      "kana": "ぽーしょん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Scrying Pool",
+      "ja": "念視の泉",
+      "kana": "ねんしのいずみ",
+      "cost": {
+        "coin": 2,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Transmute",
+      "ja": "変成",
+      "kana": "へんせい",
+      "cost": {
+        "coin": 0,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "University",
+      "ja": "大学",
+      "kana": "だいがく",
+      "cost": {
+        "coin": 2,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Vineyard",
+      "ja": "ブドウ園",
+      "kana": "ぶどうえん",
+      "cost": {
+        "coin": 0,
+        "potion": 1,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Alchemy"
+    },
+    {
+      "name": "Bank",
+      "ja": "銀行",
+      "kana": "ぎんこう",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Bishop",
+      "ja": "司教",
+      "kana": "しきょう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "City",
+      "ja": "都市",
+      "kana": "とし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Colony",
+      "ja": "植民地",
+      "kana": "しょくみんち",
+      "cost": {
+        "coin": 11,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Contraband",
+      "ja": "禁制品",
+      "kana": "きんせいひん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Counting House",
+      "ja": "会計所",
+      "kana": "かいけいしょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Expand",
+      "ja": "拡張",
+      "kana": "かくちょう",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Forge",
+      "ja": "鍛造",
+      "kana": "たんぞう",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Goons",
+      "ja": "ならず者",
+      "kana": "ならずもの",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Grand Market",
+      "ja": "大市場",
+      "kana": "おおいちば",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Hoard",
+      "ja": "隠し財産",
+      "kana": "かくしざいさん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "King's Court",
+      "ja": "宮廷",
+      "kana": "きゅうてい",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Loan",
+      "ja": "借金",
+      "kana": "しゃっきん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Mint",
+      "ja": "造幣所",
+      "kana": "ぞうへいしょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Monument",
+      "ja": "記念碑",
+      "kana": "きねんひ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Mountebank",
+      "ja": "香具師",
+      "kana": "やし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Peddler",
+      "ja": "行商人",
+      "kana": "ぎょうしょうにん",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Platinum",
+      "ja": "白金貨",
+      "kana": "はくきんか",
+      "cost": {
+        "coin": 9,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Basic"
+    },
+    {
+      "name": "Quarry",
+      "ja": "石切場",
+      "kana": "いしきりば",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Rabble",
+      "ja": "大衆",
+      "kana": "たいしゅう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Royal Seal",
+      "ja": "玉璽",
+      "kana": "ぎょくじ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Talisman",
+      "ja": "護符",
+      "kana": "ごふ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Trade Route",
+      "ja": "交易路",
+      "kana": "こうえきろ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Vault",
+      "ja": "保管庫",
+      "kana": "ほかんこ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Venture",
+      "ja": "投機",
+      "kana": "とうき",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Watchtower",
+      "ja": "望楼",
+      "kana": "ぼうろう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Worker's Village",
+      "ja": "労働者の村",
+      "kana": "ろうどうしゃのむら",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Prosperity"
+    },
+    {
+      "name": "Bag of Gold",
+      "ja": "金貨袋",
+      "kana": "きんかぶくろ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Prize"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Diadem",
+      "ja": "王冠",
+      "kana": "おうかん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Prize"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Fairgrounds",
+      "ja": "品評会",
+      "kana": "ひんぴょうかい",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Farming Village",
+      "ja": "農村",
+      "kana": "のうそん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Followers",
+      "ja": "郎党",
+      "kana": "ろうとう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Prize"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Fortune Teller",
+      "ja": "占い師",
+      "kana": "うらないし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Hamlet",
+      "ja": "村落",
+      "kana": "そんらく",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Harvest",
+      "ja": "収穫",
+      "kana": "しゅうかく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Horn of Plenty",
+      "ja": "豊穣の角笛",
+      "kana": "ほうじょうのつのぶえ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Horse Traders",
+      "ja": "馬商人",
+      "kana": "うましょうにん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Hunting Party",
+      "ja": "狩猟団",
+      "kana": "しゅりょうだん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Jester",
+      "ja": "道化師",
+      "kana": "どうけし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Menagerie",
+      "ja": "移動動物園",
+      "kana": "いどうどうぶつえん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Princess",
+      "ja": "王女",
+      "kana": "おうじょ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Prize"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Remake",
+      "ja": "再建",
+      "kana": "さいけん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Tournament",
+      "ja": "馬上槍試合",
+      "kana": "ばじょうやりじあい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Trusty Steed",
+      "ja": "名馬",
+      "kana": "めいば",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Prize"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Young Witch",
+      "ja": "魔女娘",
+      "kana": "まじょむすめ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Cornucopia"
+    },
+    {
+      "name": "Border Village",
+      "ja": "国境の村",
+      "kana": "こっきょうのむら",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Cache",
+      "ja": "埋蔵金",
+      "kana": "まいぞうきん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Cartographer",
+      "ja": "地図職人",
+      "kana": "ちずしょくにん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Crossroads",
+      "ja": "岐路",
+      "kana": "きろ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Develop",
+      "ja": "開発",
+      "kana": "かいはつ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Duchess",
+      "ja": "公爵夫人",
+      "kana": "こうしゃくふじん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Embassy",
+      "ja": "大使館",
+      "kana": "たいしかん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Farmland",
+      "ja": "農地",
+      "kana": "のうち",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Fool's Gold",
+      "ja": "愚者の黄金",
+      "kana": "ぐしゃのおうごん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Reaction"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Haggler",
+      "ja": "値切り屋",
+      "kana": "ねぎりや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Highway",
+      "ja": "街道",
+      "kana": "かいどう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Ill-Gotten Gains",
+      "ja": "不正利得",
+      "kana": "ふせいりとく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Inn",
+      "ja": "宿屋",
+      "kana": "やどや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Jack of All Trades",
+      "ja": "よろずや",
+      "kana": "よろずや",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Mandarin",
+      "ja": "官吏",
+      "kana": "かんり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Margrave",
+      "ja": "辺境伯",
+      "kana": "へんきょうはく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Noble Brigand",
+      "ja": "義賊",
+      "kana": "ぎぞく",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Nomad Camp",
+      "ja": "遊牧民の野営地",
+      "kana": "ゆうぼくみんのやえいち",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Oasis",
+      "ja": "オアシス",
+      "kana": "おあしす",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Oracle",
+      "ja": "神託",
+      "kana": "しんたく",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Scheme",
+      "ja": "画策",
+      "kana": "かくさく",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Silk Road",
+      "ja": "シルクロード",
+      "kana": "しるくろーど",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Spice Merchant",
+      "ja": "香辛料商人",
+      "kana": "こうしんりょうしょうにん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Stables",
+      "ja": "厩舎",
+      "kana": "きゅうしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Trader",
+      "ja": "交易人",
+      "kana": "こうえきにん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Tunnel",
+      "ja": "坑道",
+      "kana": "こうどう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Reaction"
+      ],
+      "set": "Hinterlands"
+    },
+    {
+      "name": "Walled Village",
+      "ja": "囲郭村",
+      "kana": "いかくそん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Governor",
+      "ja": "総督",
+      "kana": "そうとく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Abandoned Mine",
+      "ja": "廃坑",
+      "kana": "はいこう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Ruins"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Altar",
+      "ja": "祭壇",
+      "kana": "さいだん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Armory",
+      "ja": "武器庫",
+      "kana": "ぶきこ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Band of Misfits",
+      "ja": "はみだし者",
+      "kana": "はみだしもの",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Command"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Bandit Camp",
+      "ja": "山賊の宿営地",
+      "kana": "さんぞくのしゅくえいち",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Beggar",
+      "ja": "物乞い",
+      "kana": "ものごい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Catacombs",
+      "ja": "地下墓所",
+      "kana": "ちかぼしょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Count",
+      "ja": "伯爵",
+      "kana": "はくしゃく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Counterfeit",
+      "ja": "偽造通貨",
+      "kana": "ぎぞうつうか",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Cultist",
+      "ja": "狂信者",
+      "kana": "きょうしんしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Looter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Death Cart",
+      "ja": "死の荷車",
+      "kana": "しのにぐるま",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Looter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Feodum",
+      "ja": "封土",
+      "kana": "ほうど",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Forager",
+      "ja": "採集者",
+      "kana": "さいしゅうしゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Fortress",
+      "ja": "城塞",
+      "kana": "じょうさい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Graverobber",
+      "ja": "墓暴き",
+      "kana": "はかあばき",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Hermit",
+      "ja": "隠遁者",
+      "kana": "いんとんしゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Hovel",
+      "ja": "納屋",
+      "kana": "なや",
+      "cost": {
+        "coin": 1,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Reaction",
+        "Shelter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Hunting Grounds",
+      "ja": "狩場",
+      "kana": "かりば",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Ironmonger",
+      "ja": "金物商",
+      "kana": "かなものしょう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Junk Dealer",
+      "ja": "屑屋",
+      "kana": "くずや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Dame Anna",
+      "ja": "デイム・アンナ",
+      "kana": "でいむ・あんな",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Dame Josephine",
+      "ja": "デイム・ジョセフィーヌ",
+      "kana": "でいむ・じょせふぃーぬ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight",
+        "Victory"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Dame Molly",
+      "ja": "デイム・モリー",
+      "kana": "でいむ・もりー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Dame Natalie",
+      "ja": "デイム・ナタリー",
+      "kana": "でいむ・なたりー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Dame Sylvia",
+      "ja": "デイム・シルビア",
+      "kana": "でいむ・しるびあ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sir Bailey",
+      "ja": "サー・ベイリー",
+      "kana": "さー・べいりー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sir Destry",
+      "ja": "サー・デストリー",
+      "kana": "さー・ですとりー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sir Martin",
+      "ja": "サー・マーチン",
+      "kana": "さー・まーちん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sir Michael",
+      "ja": "サー・マイケル",
+      "kana": "さー・まいける",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sir Vander",
+      "ja": "サー・ヴァンデル",
+      "kana": "さー・う゛ぁんでる",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Knight"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Madman",
+      "ja": "狂人",
+      "kana": "きょうじん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Marauder",
+      "ja": "襲撃者",
+      "kana": "しゅうげきしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Looter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Market Square",
+      "ja": "青空市場",
+      "kana": "あおぞらいちば",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Mercenary",
+      "ja": "傭兵",
+      "kana": "ようへい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Mystic",
+      "ja": "秘術師",
+      "kana": "ひじゅつし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Necropolis",
+      "ja": "共同墓地",
+      "kana": "きょうどうぼち",
+      "cost": {
+        "coin": 1,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Shelter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Overgrown Estate",
+      "ja": "草茂る屋敷",
+      "kana": "くさしげるやしき",
+      "cost": {
+        "coin": 1,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Shelter"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Pillage",
+      "ja": "略奪",
+      "kana": "りゃくだつ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Poor House",
+      "ja": "救貧院",
+      "kana": "きゅうひんいん",
+      "cost": {
+        "coin": 1,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Procession",
+      "ja": "行進",
+      "kana": "こうしん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Rats",
+      "ja": "ネズミ",
+      "kana": "ねずみ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Rebuild",
+      "ja": "建て直し",
+      "kana": "たてなおし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Rogue",
+      "ja": "盗賊",
+      "kana": "とうぞく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Ruined Library",
+      "ja": "図書館跡地",
+      "kana": "としょかんあとち",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Ruins"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Ruined Market",
+      "ja": "市場跡地",
+      "kana": "いちばあとち",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Ruins"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Ruined Village",
+      "ja": "廃村",
+      "kana": "はいそん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Ruins"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Sage",
+      "ja": "賢者",
+      "kana": "けんじゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Scavenger",
+      "ja": "ゴミあさり",
+      "kana": "ごみあさり",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Spoils",
+      "ja": "略奪品",
+      "kana": "りゃくだつひん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Squire",
+      "ja": "従者",
+      "kana": "じゅうしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Storeroom",
+      "ja": "物置",
+      "kana": "ものおき",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Survivors",
+      "ja": "生存者",
+      "kana": "せいぞんしゃ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Ruins"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Urchin",
+      "ja": "浮浪児",
+      "kana": "ふろうじ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Vagrant",
+      "ja": "浮浪者",
+      "kana": "ふろうしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Wandering Minstrel",
+      "ja": "吟遊詩人",
+      "kana": "ぎんゆうしじん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "DarkAge"
+    },
+    {
+      "name": "Advisor",
+      "ja": "助言者",
+      "kana": "じょげんしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Baker",
+      "ja": "パン屋",
+      "kana": "ぱんや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Butcher",
+      "ja": "肉屋",
+      "kana": "にくや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Candlestick Maker",
+      "ja": "蝋燭職人",
+      "kana": "ろうそくしょくにん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Doctor",
+      "ja": "医者",
+      "kana": "いしゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": true
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Herald",
+      "ja": "伝令官",
+      "kana": "でんれいかん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": true
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Journeyman",
+      "ja": "熟練工",
+      "kana": "じゅくれんこう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Masterpiece",
+      "ja": "名品",
+      "kana": "めいひん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": true
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Merchant Guild",
+      "ja": "商人ギルド",
+      "kana": "しょうにんぎるど",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Plaza",
+      "ja": "広場",
+      "kana": "ひろば",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Soothsayer",
+      "ja": "予言者",
+      "kana": "よげんしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Stonemason",
+      "ja": "石工",
+      "kana": "いしく",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": true
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Taxman",
+      "ja": "収税吏",
+      "kana": "しゅうぜいり",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Guilds"
+    },
+    {
+      "name": "Prince",
+      "ja": "王子",
+      "kana": "おうじ",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Amulet",
+      "ja": "魔除け",
+      "kana": "まよけ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Artificer",
+      "ja": "工匠",
+      "kana": "こうしょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Bridge Troll",
+      "ja": "橋の下のトロル",
+      "kana": "はしのしたのとろる",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Caravan Guard",
+      "ja": "隊商の護衛",
+      "kana": "たいしょうのごえい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration",
+        "Reaction"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Coin of the Realm",
+      "ja": "法貨",
+      "kana": "ほうか",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Distant Lands",
+      "ja": "遠隔地",
+      "kana": "えんかくち",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve",
+        "Victory"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Dungeon",
+      "ja": "地下牢",
+      "kana": "ちかろう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Duplicate",
+      "ja": "複製",
+      "kana": "ふくせい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Gear",
+      "ja": "道具",
+      "kana": "どうぐ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Giant",
+      "ja": "巨人",
+      "kana": "きょじん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Guide",
+      "ja": "案内人",
+      "kana": "あんないにん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Haunted Woods",
+      "ja": "呪いの森",
+      "kana": "のろいのもり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Hireling",
+      "ja": "雇人",
+      "kana": "やといど",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Lost City",
+      "ja": "失われし都市",
+      "kana": "うしなわれしとし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Magpie",
+      "ja": "カササギ",
+      "kana": "かささぎ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Messenger",
+      "ja": "使者",
+      "kana": "ししゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Miser",
+      "ja": "守銭奴",
+      "kana": "しゅせんど",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Page",
+      "ja": "騎士見習い",
+      "kana": "きしみならい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Peasant",
+      "ja": "農民",
+      "kana": "のうみん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Port",
+      "ja": "港町",
+      "kana": "みなとまち",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Ranger",
+      "ja": "山守",
+      "kana": "やまもり",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Ratcatcher",
+      "ja": "鼠取り",
+      "kana": "ねずみとり",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Raze",
+      "ja": "倒壊",
+      "kana": "とうかい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Relic",
+      "ja": "遺物",
+      "kana": "いぶつ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Attack"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Royal Carriage",
+      "ja": "御料車",
+      "kana": "ごりょうしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Storyteller",
+      "ja": "語り部",
+      "kana": "かたりべ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Swamp Hag",
+      "ja": "沼の妖婆",
+      "kana": "ぬまのようば",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Transmogrify",
+      "ja": "変容",
+      "kana": "へんよう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Treasure Trove",
+      "ja": "掘出物",
+      "kana": "ほりだしもの",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Wine Merchant",
+      "ja": "ワイン商",
+      "kana": "わいんしょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Alms",
+      "ja": "施し",
+      "kana": "ほどこし",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Ball",
+      "ja": "舞踏会",
+      "kana": "ぶとうかい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Bonfire",
+      "ja": "焚火",
+      "kana": "たきび",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Borrow",
+      "ja": "借入",
+      "kana": "しゃくにゅう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Expedition",
+      "ja": "探検",
+      "kana": "たんけん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Ferry",
+      "ja": "渡し船",
+      "kana": "わたしぶね",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Inheritance",
+      "ja": "相続",
+      "kana": "そうぞく",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Lost Arts",
+      "ja": "失われた技術",
+      "kana": "うしなわれたぎじゅつ",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Mission",
+      "ja": "使節団",
+      "kana": "しせつだん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Pathfinding",
+      "ja": "誘導",
+      "kana": "ゆうどう",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Pilgrimage",
+      "ja": "巡礼",
+      "kana": "じゅんれい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Plan",
+      "ja": "立案",
+      "kana": "りつあん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Quest",
+      "ja": "探索",
+      "kana": "たんさく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Raid",
+      "ja": "奇襲",
+      "kana": "きしゅう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Save",
+      "ja": "保存",
+      "kana": "ほぞん",
+      "cost": {
+        "coin": 1,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Scouting Party",
+      "ja": "偵察隊",
+      "kana": "ていさつたい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Seaway",
+      "ja": "海路",
+      "kana": "かいろ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Trade",
+      "ja": "交易",
+      "kana": "こうえき",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Training",
+      "ja": "鍛錬",
+      "kana": "たんれん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Travelling Fair",
+      "ja": "移動遊園地",
+      "kana": "いどうゆうえんち",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Champion",
+      "ja": "チャンピオン",
+      "kana": "ちゃんぴおん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Disciple",
+      "ja": "門下生",
+      "kana": "もんかせい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Fugitive",
+      "ja": "脱走兵",
+      "kana": "だっそうへい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Hero",
+      "ja": "ヒーロー",
+      "kana": "ひーろー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Soldier",
+      "ja": "兵士",
+      "kana": "へいし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Teacher",
+      "ja": "教師",
+      "kana": "きょうし",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reserve"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Treasure Hunter",
+      "ja": "トレジャーハンター",
+      "kana": "とれじゃーはんたー",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Warrior",
+      "ja": "ウォリアー",
+      "kana": "うぉりあー",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Traveller"
+      ],
+      "set": "Adventures"
+    },
+    {
+      "name": "Summon",
+      "ja": "召喚",
+      "kana": "しょうかん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Archive",
+      "ja": "資料庫",
+      "kana": "しりょうこ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Bustling Village",
+      "ja": "騒がしい村",
+      "kana": "さわがしいむら",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Capital",
+      "ja": "元手",
+      "kana": "もとで",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Humble Castle",
+      "ja": "粗末な城",
+      "kana": "そまつなしろ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Crumbling Castle",
+      "ja": "崩れた城",
+      "kana": "くずれたしろ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Small Castle",
+      "ja": "小さい城",
+      "kana": "ちいさいしろ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Haunted Castle",
+      "ja": "幽霊城",
+      "kana": "ゆうれいじょう",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Opulent Castle",
+      "ja": "華やかな城",
+      "kana": "はなやかなしろ",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Sprawling Castle",
+      "ja": "広大な城",
+      "kana": "こうだいなしろ",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Grand Castle",
+      "ja": "壮大な城",
+      "kana": "そうだいなしろ",
+      "cost": {
+        "coin": 9,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "King's Castle",
+      "ja": "王城",
+      "kana": "おうじょう",
+      "cost": {
+        "coin": 10,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory",
+        "Castle"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Catapult",
+      "ja": "投石機",
+      "kana": "とうせきき",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Chariot Race",
+      "ja": "戦車競走",
+      "kana": "せんしゃきょうそう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Charm",
+      "ja": "御守り",
+      "kana": "おまもり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "City Quarter",
+      "ja": "市街",
+      "kana": "しがい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Crown",
+      "ja": "冠",
+      "kana": "かんむり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Emporium",
+      "ja": "エンポリウム",
+      "kana": "えんぽりうむ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Encampment",
+      "ja": "陣地",
+      "kana": "じんち",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Enchantress",
+      "ja": "女魔術師",
+      "kana": "おんなまじゅつし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Duration"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Engineer",
+      "ja": "技術者",
+      "kana": "ぎじゅつしゃ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 4,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Farmers' Market",
+      "ja": "農家の市場",
+      "kana": "のうかのいちば",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Gathering"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Fortune",
+      "ja": "大金",
+      "kana": "たいきん",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Forum",
+      "ja": "公共広場",
+      "kana": "こうきょうひろば",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Gladiator",
+      "ja": "剣闘士",
+      "kana": "けんとうし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Groundskeeper",
+      "ja": "庭師",
+      "kana": "にわし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Legionary",
+      "ja": "軍団兵",
+      "kana": "ぐんだんへい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Royal Blacksmith",
+      "ja": "王室の鍛冶屋",
+      "kana": "おうしつのかじや",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Overlord",
+      "ja": "大君主",
+      "kana": "だいくんしゅ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Command"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Patrician",
+      "ja": "パトリキ",
+      "kana": "ぱとりき",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Plunder",
+      "ja": "鹵獲品",
+      "kana": "ろかくひん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Rocks",
+      "ja": "石",
+      "kana": "いし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Sacrifice",
+      "ja": "生贄",
+      "kana": "いけにえ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Settlers",
+      "ja": "開拓者",
+      "kana": "かいたくしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Temple",
+      "ja": "神殿",
+      "kana": "しんでん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Gathering"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Villa",
+      "ja": "ヴィラ",
+      "kana": "う゛ぃら",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Wild Hunt",
+      "ja": "ワイルドハント",
+      "kana": "わいるどはんと",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Gathering"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Advance",
+      "ja": "昇進",
+      "kana": "しょうしん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Annex",
+      "ja": "併合",
+      "kana": "へいごう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Banquet",
+      "ja": "宴会",
+      "kana": "えんかい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Conquest",
+      "ja": "征服",
+      "kana": "せいふく",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Delve",
+      "ja": "掘進",
+      "kana": "くっしん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Dominate",
+      "ja": "制圧",
+      "kana": "せいあつ",
+      "cost": {
+        "coin": 14,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Donate",
+      "ja": "寄付",
+      "kana": "きふ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 8,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Ritual",
+      "ja": "儀式",
+      "kana": "ぎしき",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Salt the Earth",
+      "ja": "大地への塩まき",
+      "kana": "だいちへのしおまき",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Tax",
+      "ja": "徴税",
+      "kana": "ちょうぜい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Triumph",
+      "ja": "凱旋",
+      "kana": "がいせん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 5,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Wedding",
+      "ja": "結婚式",
+      "kana": "けっこんしき",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 3,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Windfall",
+      "ja": "意外な授かり物",
+      "kana": "いがいなさずかりもの",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Aqueduct",
+      "ja": "水道橋",
+      "kana": "すいどうきょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Arena",
+      "ja": "闘技場",
+      "kana": "とうぎじょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Bandit Fort",
+      "ja": "山賊の砦",
+      "kana": "さんぞくのとりで",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Basilica",
+      "ja": "公会堂",
+      "kana": "こうかいどう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Baths",
+      "ja": "浴場",
+      "kana": "よくじょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Battlefield",
+      "ja": "戦場",
+      "kana": "せんじょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Colonnade",
+      "ja": "列柱",
+      "kana": "れっちゅう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Defiled Shrine",
+      "ja": "汚された神殿",
+      "kana": "けがされたしんでん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Fountain",
+      "ja": "噴水",
+      "kana": "ふんすい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Keep",
+      "ja": "砦",
+      "kana": "とりで",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Labyrinth",
+      "ja": "迷宮",
+      "kana": "めいきゅう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Mountain Pass",
+      "ja": "峠",
+      "kana": "とうげ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Museum",
+      "ja": "博物館",
+      "kana": "はくぶつかん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Obelisk",
+      "ja": "オベリスク",
+      "kana": "おべりすく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Orchard",
+      "ja": "果樹園",
+      "kana": "かじゅえん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Palace",
+      "ja": "宮殿",
+      "kana": "きゅうでん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Tomb",
+      "ja": "墓標",
+      "kana": "ぼひょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Tower",
+      "ja": "塔",
+      "kana": "とう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Triumphal Arch",
+      "ja": "凱旋門",
+      "kana": "がいせんもん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Wall",
+      "ja": "壁",
+      "kana": "かべ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Wolf Den",
+      "ja": "狼の巣",
+      "kana": "おおかみのす",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Landmark"
+      ],
+      "set": "Empires"
+    },
+    {
+      "name": "Sauna",
+      "ja": "サウナ",
+      "kana": "さうな",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Avanto",
+      "ja": "アヴァント",
+      "kana": "あう゛ぁんと",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Artisan",
+      "ja": "職人",
+      "kana": "しょくにん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Bandit",
+      "ja": "山賊",
+      "kana": "さんぞく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Harbinger",
+      "ja": "前駆者",
+      "kana": "ぜんくしゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Merchant",
+      "ja": "商人",
+      "kana": "しょうにん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Poacher",
+      "ja": "密猟者",
+      "kana": "みつりょうしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Sentry",
+      "ja": "衛兵",
+      "kana": "えいへい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Vassal",
+      "ja": "家臣",
+      "kana": "かしん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Base"
+    },
+    {
+      "name": "Courtier",
+      "ja": "廷臣",
+      "kana": "ていしん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Diplomat",
+      "ja": "外交官",
+      "kana": "がいこうかん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Lurker",
+      "ja": "待ち伏せ",
+      "kana": "まちぶせ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Mill",
+      "ja": "風車",
+      "kana": "ふうしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Victory"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Patrol",
+      "ja": "パトロール",
+      "kana": "ぱとろーる",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Replace",
+      "ja": "身代わり",
+      "kana": "みがわり",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Secret Passage",
+      "ja": "隠し通路",
+      "kana": "かくしつうろ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Intrigue"
+    },
+    {
+      "name": "Bard",
+      "ja": "詩人",
+      "kana": "しじん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Blessed Village",
+      "ja": "恵みの村",
+      "kana": "めぐみのむら",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Cemetery",
+      "ja": "墓地",
+      "kana": "ぼち",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Victory"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Changeling",
+      "ja": "取り替え子",
+      "kana": "とりかえこ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Cobbler",
+      "ja": "カブラー",
+      "kana": "かぶらー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Conclave",
+      "ja": "コンクラーベ",
+      "kana": "こんくらーべ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Crypt",
+      "ja": "納骨堂",
+      "kana": "のうこつどう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Cursed Village",
+      "ja": "呪われた村",
+      "kana": "のろわれたむら",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Den of Sin",
+      "ja": "悪人のアジト",
+      "kana": "あくにんのあじと",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Devil's Workshop",
+      "ja": "悪魔の工房",
+      "kana": "あくまのこうぼう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Druid",
+      "ja": "ドルイド",
+      "kana": "どるいど",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Exorcist",
+      "ja": "悪魔祓い",
+      "kana": "あくまばらい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Faithful Hound",
+      "ja": "忠犬",
+      "kana": "ちゅうけん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Fool",
+      "ja": "愚者",
+      "kana": "ぐしゃ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Ghost Town",
+      "ja": "ゴーストタウン",
+      "kana": "ごーすとたうん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Guardian",
+      "ja": "守護者",
+      "kana": "しゅごしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Idol",
+      "ja": "偶像",
+      "kana": "ぐうぞう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Attack",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Leprechaun",
+      "ja": "レプラコーン",
+      "kana": "れぷらこーん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Monastery",
+      "ja": "修道院",
+      "kana": "しゅうどういん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Necromancer",
+      "ja": "ネクロマンサー",
+      "kana": "ねくろまんさー",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Night Watchman",
+      "ja": "夜警",
+      "kana": "やけい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Pixie",
+      "ja": "ピクシー",
+      "kana": "ぴくしー",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Pooka",
+      "ja": "プーカ",
+      "kana": "ぷーか",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Raider",
+      "ja": "夜襲",
+      "kana": "やしゅう",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration",
+        "Attack"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Sacred Grove",
+      "ja": "聖なる木立ち",
+      "kana": "せいなるこだち",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Secret Cave",
+      "ja": "秘密の洞窟",
+      "kana": "ひみつのどうくつ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Shepherd",
+      "ja": "羊飼い",
+      "kana": "ひつじかい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Skulk",
+      "ja": "暗躍者",
+      "kana": "あんやくしゃ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Tormentor",
+      "ja": "迫害者",
+      "kana": "はくがいしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Tracker",
+      "ja": "追跡者",
+      "kana": "ついせきしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Fate"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Tragic Hero",
+      "ja": "悲劇のヒーロー",
+      "kana": "ひげきのひーろー",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Vampire",
+      "ja": "吸血鬼",
+      "kana": "きゅうけつき",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Attack",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Werewolf",
+      "ja": "人狼",
+      "kana": "じんろう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Night",
+        "Attack",
+        "Doom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Bat",
+      "ja": "コウモリ",
+      "kana": "こうもり",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Cursed Gold",
+      "ja": "呪われた金貨",
+      "kana": "のろわれたきんか",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Ghost",
+      "ja": "幽霊",
+      "kana": "ゆうれい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Night",
+        "Duration",
+        "Spirit"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Goat",
+      "ja": "ヤギ",
+      "kana": "やぎ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Haunted Mirror",
+      "ja": "呪いの鏡",
+      "kana": "のろいのかがみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Imp",
+      "ja": "インプ",
+      "kana": "いんぷ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Spirit"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Lucky Coin",
+      "ja": "幸運のコイン",
+      "kana": "こううんのこいん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Magic Lamp",
+      "ja": "魔法のランプ",
+      "kana": "まほうのらんぷ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Pasture",
+      "ja": "牧草地",
+      "kana": "ぼくそうち",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Victory",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Pouch",
+      "ja": "革袋",
+      "kana": "かわぶくろ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure",
+        "Heirloom"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Will-o'-wisp",
+      "ja": "ウィル・オ・ウィスプ",
+      "kana": "うぃる・お・うぃすぷ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Spirit"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Wish",
+      "ja": "願い",
+      "kana": "ねがい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Zombie Apprentice",
+      "ja": "ゾンビの弟子",
+      "kana": "ぞんびのでし",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Zombie"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Zombie Mason",
+      "ja": "ゾンビの石工",
+      "kana": "ぞんびのいしく",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Zombie"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Zombie Spy",
+      "ja": "ゾンビの密偵",
+      "kana": "ぞんびのみってい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Zombie"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Earth's Gift",
+      "ja": "大地の恵み",
+      "kana": "だいちのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Field's Gift",
+      "ja": "田畑の恵み",
+      "kana": "たはたのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Flame's Gift",
+      "ja": "炎の恵み",
+      "kana": "ほのおのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Forest's Gift",
+      "ja": "森の恵み",
+      "kana": "もりのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Moon's Gift",
+      "ja": "月の恵み",
+      "kana": "つきのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Mountain's Gift",
+      "ja": "山の恵み",
+      "kana": "やまのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The River's Gift",
+      "ja": "川の恵み",
+      "kana": "かわのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Sea's Gift",
+      "ja": "海の恵み",
+      "kana": "うみのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Sky's Gift",
+      "ja": "空の恵み",
+      "kana": "そらのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Sun's Gift",
+      "ja": "太陽の恵み",
+      "kana": "たいようのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Swamp's Gift",
+      "ja": "沼の恵み",
+      "kana": "ぬまのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "The Wind's Gift",
+      "ja": "風の恵み",
+      "kana": "かぜのめぐみ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Boon"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Bad Omens",
+      "ja": "凶兆",
+      "kana": "きょうちょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Delusion",
+      "ja": "幻惑",
+      "kana": "げんわく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Envy",
+      "ja": "羨望",
+      "kana": "せんぼう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Famine",
+      "ja": "飢饉",
+      "kana": "ききん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Fear",
+      "ja": "恐怖",
+      "kana": "きょうふ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Greed",
+      "ja": "貪欲",
+      "kana": "どんよく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Haunting",
+      "ja": "憑依",
+      "kana": "ひょうい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Locusts",
+      "ja": "蝗害",
+      "kana": "こうがい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Misery",
+      "ja": "みじめな生活",
+      "kana": "みじめなせいかつ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Plague",
+      "ja": "疫病",
+      "kana": "えきびょう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Poverty",
+      "ja": "貧困",
+      "kana": "ひんこん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "War",
+      "ja": "戦争",
+      "kana": "せんそう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Hex"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Lost in the Woods",
+      "ja": "森の迷子",
+      "kana": "もりのまいご",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "State"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Deluded",
+      "ja": "錯乱",
+      "kana": "さくらん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "State"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Envious",
+      "ja": "嫉妬",
+      "kana": "しっと",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "State"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Miserable",
+      "ja": "生活苦",
+      "kana": "せいかつく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "State"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Twice Miserable",
+      "ja": "二重苦",
+      "kana": "にじゅうく",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "State"
+      ],
+      "set": "Nocturne"
+    },
+    {
+      "name": "Dismantle",
+      "ja": "取り壊し",
+      "kana": "とりこわし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Acting Troupe",
+      "ja": "劇団",
+      "kana": "げきだん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Border Guard",
+      "ja": "国境警備隊",
+      "kana": "こっきょうけいびたい",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Horn",
+      "ja": "角笛",
+      "kana": "つのぶえ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Artifact"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Lantern",
+      "ja": "ランタン",
+      "kana": "らんたん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Artifact"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Cargo Ship",
+      "ja": "貨物船",
+      "kana": "かもつせん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Ducat",
+      "ja": "ドゥカート金貨",
+      "kana": "どぅかーときんか",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Experiment",
+      "ja": "実験",
+      "kana": "じっけん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Flag Bearer",
+      "ja": "旗手",
+      "kana": "きしゅ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Flag",
+      "ja": "旗",
+      "kana": "はた",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Artifact"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Hideout",
+      "ja": "根城",
+      "kana": "ねじろ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Improve",
+      "ja": "増築",
+      "kana": "ぞうちく",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Inventor",
+      "ja": "発明家",
+      "kana": "はつめいか",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Lackeys",
+      "ja": "追従者",
+      "kana": "ついじゅうしゃ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Mountain Village",
+      "ja": "山村",
+      "kana": "さんそん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Old Witch",
+      "ja": "老魔女",
+      "kana": "ろうまじょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Patron",
+      "ja": "パトロン",
+      "kana": "ぱとろん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Priest",
+      "ja": "司祭",
+      "kana": "しさい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Recruiter",
+      "ja": "徴募官",
+      "kana": "ちょうぼかん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Research",
+      "ja": "研究",
+      "kana": "けんきゅう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Scepter",
+      "ja": "王笏",
+      "kana": "おうしゃく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Scholar",
+      "ja": "学者",
+      "kana": "がくしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Sculptor",
+      "ja": "彫刻家",
+      "kana": "ちょうこくか",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Seer",
+      "ja": "先見者",
+      "kana": "せんけんしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Silk Merchant",
+      "ja": "絹商人",
+      "kana": "きぬしょうにん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Spices",
+      "ja": "香辛料",
+      "kana": "こうしんりょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Swashbuckler",
+      "ja": "剣客",
+      "kana": "けんかく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Treasure Chest",
+      "ja": "宝箱",
+      "kana": "たからばこ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Artifact"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Treasurer",
+      "ja": "出納官",
+      "kana": "すいとうかん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Key",
+      "ja": "鍵",
+      "kana": "かぎ",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Artifact"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Villain",
+      "ja": "悪党",
+      "kana": "あくとう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Academy",
+      "ja": "学園",
+      "kana": "がくえん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Barracks",
+      "ja": "兵舎",
+      "kana": "へいしゃ",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Canal",
+      "ja": "運河",
+      "kana": "うんが",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Capitalism",
+      "ja": "資本主義",
+      "kana": "しほんしゅぎ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Cathedral",
+      "ja": "大聖堂",
+      "kana": "だいせいどう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Citadel",
+      "ja": "山砦",
+      "kana": "さんさい",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "City Gate",
+      "ja": "城門",
+      "kana": "じょうもん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Crop Rotation",
+      "ja": "輪作",
+      "kana": "りんさく",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Exploration",
+      "ja": "探査",
+      "kana": "たんさ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Fair",
+      "ja": "縁日",
+      "kana": "えんにち",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Fleet",
+      "ja": "艦隊",
+      "kana": "かんたい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Guildhall",
+      "ja": "ギルド集会所",
+      "kana": "ぎるどしゅうかいじょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Innovation",
+      "ja": "技術革新",
+      "kana": "ぎじゅつかくしん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Pageant",
+      "ja": "野外劇",
+      "kana": "やがいげき",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Piazza",
+      "ja": "ピアッツァ",
+      "kana": "ぴあっつぁ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Road Network",
+      "ja": "道路網",
+      "kana": "どうろもう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Sewers",
+      "ja": "下水道",
+      "kana": "げすいどう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Silos",
+      "ja": "サイロ",
+      "kana": "さいろ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Sinister Plot",
+      "ja": "悪巧み",
+      "kana": "わるだくみ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Star Chart",
+      "ja": "星図",
+      "kana": "せいず",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Project"
+      ],
+      "set": "Renaissance"
+    },
+    {
+      "name": "Church",
+      "ja": "Church",
+      "kana": "Church",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Captain",
+      "ja": "Captain",
+      "kana": "Captain",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration",
+        "Command"
+      ],
+      "set": "Promos"
+    },
+    {
+      "name": "Animal Fair",
+      "ja": "動物見本市",
+      "kana": "どうぶつみほんいち",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Barge",
+      "ja": "艀",
+      "kana": "はしけ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Black Cat",
+      "ja": "黒猫",
+      "kana": "くろねこ",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack",
+        "Reaction"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Bounty Hunter",
+      "ja": "賞金稼ぎ",
+      "kana": "しょうきんかせぎ",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Camel Train",
+      "ja": "ラクダの隊列",
+      "kana": "らくだのたいれつ",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Cardinal",
+      "ja": "枢機卿",
+      "kana": "すうききょう",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Cavalry",
+      "ja": "騎兵隊",
+      "kana": "きへいたい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Coven",
+      "ja": "魔女の集会",
+      "kana": "まじょのしゅうかい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Attack"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Destrier",
+      "ja": "デストリエ",
+      "kana": "ですとりえ",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Displace",
+      "ja": "強制退去",
+      "kana": "きょうせいたいきょ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Falconer",
+      "ja": "鷹匠",
+      "kana": "たかじょう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Fisherman",
+      "ja": "漁師",
+      "kana": "りょうし",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Gatekeeper",
+      "ja": "門番",
+      "kana": "もんばん",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration",
+        "Attack"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Goatherd",
+      "ja": "ヤギ飼い",
+      "kana": "やぎかい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Groom",
+      "ja": "馬丁",
+      "kana": "ばてい",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Hostelry",
+      "ja": "旅籠",
+      "kana": "はたご",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Hunting Lodge",
+      "ja": "狩猟小屋",
+      "kana": "しゅりょうごや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Kiln",
+      "ja": "炉",
+      "kana": "ろ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Livery",
+      "ja": "貸し馬屋",
+      "kana": "かしうまや",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Mastermind",
+      "ja": "首謀者",
+      "kana": "しゅぼうしゃ",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Paddock",
+      "ja": "パドック",
+      "kana": "ぱどっく",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Sanctuary",
+      "ja": "聖域",
+      "kana": "せいいき",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Scrap",
+      "ja": "がらくた",
+      "kana": "がらくた",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Sheepdog",
+      "ja": "牧羊犬",
+      "kana": "ぼくようけん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Sleigh",
+      "ja": "そり",
+      "kana": "そり",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Reaction"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Snowy Village",
+      "ja": "雪深い村",
+      "kana": "ゆきぶかいむら",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Stockpile",
+      "ja": "備蓄品",
+      "kana": "びちくひん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Supplies",
+      "ja": "配給品",
+      "kana": "はいきゅうひん",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Treasure"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Village Green",
+      "ja": "村有緑地",
+      "kana": "そんゆうりょくち",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action",
+        "Duration",
+        "Reaction"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Wayfarer",
+      "ja": "行人",
+      "kana": "こうじん",
+      "cost": {
+        "coin": 6,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Horse",
+      "ja": "馬",
+      "kana": "うま",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Action"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Alliance",
+      "ja": "同盟",
+      "kana": "どうめい",
+      "cost": {
+        "coin": 10,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Banish",
+      "ja": "放逐",
+      "kana": "ほうちく",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Bargain",
+      "ja": "特価品",
+      "kana": "とっかひん",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Commerce",
+      "ja": "商売",
+      "kana": "しょうばい",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Delay",
+      "ja": "遅延",
+      "kana": "ちえん",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Demand",
+      "ja": "要求",
+      "kana": "ようきゅう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Desperation",
+      "ja": "絶望",
+      "kana": "ぜつぼう",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Enclave",
+      "ja": "包領",
+      "kana": "ほうりょう",
+      "cost": {
+        "coin": 8,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Enhance",
+      "ja": "増大",
+      "kana": "ぞうだい",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Gamble",
+      "ja": "博打",
+      "kana": "ばくち",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Invest",
+      "ja": "投資",
+      "kana": "とうし",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "March",
+      "ja": "進軍",
+      "kana": "しんぐん",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Populate",
+      "ja": "植民",
+      "kana": "しょくみん",
+      "cost": {
+        "coin": 10,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Pursue",
+      "ja": "追求",
+      "kana": "ついきゅう",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Reap",
+      "ja": "刈り入れ",
+      "kana": "かりいれ",
+      "cost": {
+        "coin": 7,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Ride",
+      "ja": "乗馬",
+      "kana": "じょうば",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Seize the Day",
+      "ja": "今を生きる",
+      "kana": "いまをいきる",
+      "cost": {
+        "coin": 4,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Stampede",
+      "ja": "暴走",
+      "kana": "ぼうそう",
+      "cost": {
+        "coin": 5,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Toil",
+      "ja": "苦労",
+      "kana": "くろう",
+      "cost": {
+        "coin": 2,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Transport",
+      "ja": "輸送",
+      "kana": "ゆそう",
+      "cost": {
+        "coin": 3,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Event"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Butterfly",
+      "ja": "チョウの習性",
+      "kana": "ちょうのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Camel",
+      "ja": "ラクダの習性",
+      "kana": "らくだのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Chameleon",
+      "ja": "カメレオンの習性",
+      "kana": "かめれおんのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Frog",
+      "ja": "カエルの習性",
+      "kana": "かえるのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Goat",
+      "ja": "ヤギの習性",
+      "kana": "やぎのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Horse",
+      "ja": "馬の習性",
+      "kana": "うまのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Mole",
+      "ja": "モグラの習性",
+      "kana": "もぐらのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Monkey",
+      "ja": "サルの習性",
+      "kana": "さるのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Mouse",
+      "ja": "ハツカネズミの習性",
+      "kana": "はつかねずみのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Mule",
+      "ja": "ラバの習性",
+      "kana": "らばのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Otter",
+      "ja": "カワウソの習性",
+      "kana": "かわうそのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Owl",
+      "ja": "フクロウの習性",
+      "kana": "ふくろうのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Ox",
+      "ja": "雄牛の習性",
+      "kana": "おうしのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Pig",
+      "ja": "豚の習性",
+      "kana": "ぶたのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Rat",
+      "ja": "ドブネズミの習性",
+      "kana": "どぶねずみのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Seal",
+      "ja": "アザラシの習性",
+      "kana": "あざらしのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Sheep",
+      "ja": "羊の習性",
+      "kana": "ひつじのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Squirrel",
+      "ja": "リスの習性",
+      "kana": "りすのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Turtle",
+      "ja": "ウミガメの習性",
+      "kana": "うみがめのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    },
+    {
+      "name": "Way of the Worm",
+      "ja": "ミミズの習性",
+      "kana": "みみずのしゅうせい",
+      "cost": {
+        "coin": 0,
+        "potion": 0,
+        "debt": 0,
+        "overpay": false
+      },
+      "kinds": [
+        "Way"
+      ],
+      "set": "Menagerie"
+    }
+  ]
+}
